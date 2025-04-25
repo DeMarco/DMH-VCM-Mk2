@@ -92,6 +92,212 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "MountingHole_ToggleSwitch_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Function"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SynthStuff:Toggle_Switch_TE_Cutout"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Toggle Switch Mounting Hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "ki_keywords" "mounting hole toggle switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_ToggleSwitch_1_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_ToggleSwitch_1_1_1"
+				(pin input line
+					(at 0 -3.81 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "MountingHole_ToggleSwitch_2"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Function"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SynthStuff:Toggle_Switch_TE_Cutout"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Toggle Switch Mounting Hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "ki_keywords" "mounting hole toggle switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_ToggleSwitch_2_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_ToggleSwitch_2_1_1"
+				(pin input line
+					(at 0 -3.81 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "SynthStuff:MountingHole_Jack6.35mm_v2"
 			(pin_numbers
 				(hide yes)
@@ -434,7 +640,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SynthStuff:Toggle_Switch_Cutout"
+			(property "Footprint" "SynthStuff:Toggle_Switch_TE_Cutout"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1923,6 +2129,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_ToggleSwitch_2")
 		(lib_id "SynthStuff:MountingHole_ToggleSwitch")
 		(at 101.6 139.7 0)
 		(unit 1)
@@ -1950,7 +2157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Toggle_Switch_Cutout"
+		(property "Footprint" "SynthStuff:Toggle_Switch_TE_Cutout"
 			(at 101.6 139.7 0)
 			(effects
 				(font
@@ -2056,6 +2263,7 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_ToggleSwitch_1")
 		(lib_id "SynthStuff:MountingHole_ToggleSwitch")
 		(at 101.6 203.2 0)
 		(unit 1)
@@ -2083,7 +2291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Toggle_Switch_Cutout"
+		(property "Footprint" "SynthStuff:Toggle_Switch_TE_Cutout"
 			(at 101.6 203.2 0)
 			(effects
 				(font
@@ -2948,7 +3156,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Toggle_Switch_Cutout"
+		(property "Footprint" "SynthStuff:Toggle_Switch_TE_Cutout"
 			(at 101.6 88.9 0)
 			(effects
 				(font

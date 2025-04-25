@@ -306,7 +306,7 @@
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/b632d930-3319-4757-927d-f201fbda1e4d")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -7.499998 0)
@@ -578,7 +578,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ab447e37-c473-44f9-b580-278261ee12b1")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -778,7 +778,7 @@
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/9129f3cf-2c10-4203-92bd-3f70cd9a0c3b")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -10.75 10)
@@ -1173,7 +1173,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/778306f6-ceb0-4c6d-a853-d9f36c86941f")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
 			(pts
@@ -1491,7 +1491,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/20d98fb5-beda-45df-8034-ff47dbc998db")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -1674,7 +1674,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/81b69589-d99a-4d1f-8d1e-2cea6cc0267a")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
 			(pts
@@ -1933,7 +1933,7 @@
 			)
 		)
 	)
-	(footprint "SynthStuff:Toggle_Switch_Cutout"
+	(footprint "SynthStuff:Toggle_Switch_TE_Cutout"
 		(layer "F.Cu")
 		(uuid "408b8c60-ed26-4bed-866a-235050fbd584")
 		(at 75 52)
@@ -2076,7 +2076,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/53f2f9d4-97d2-4bbe-ac5e-13fa6e4edc9d")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2087,7 +2087,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "abcb683f-c74b-4c4c-bbf2-58d818c047a6")
+			(uuid "56328f36-56c4-4b5e-a472-cc26d8a5b3a9")
 		)
 		(fp_arc
 			(start -6.984267 0)
@@ -2098,7 +2098,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "03ed6b26-8044-4654-8ce6-f691f4914cfa")
+			(uuid "9bf28f05-12cb-4fd5-9954-bc78c36be65d")
 		)
 		(fp_arc
 			(start -1.435493 -6.835156)
@@ -2109,7 +2109,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "9f5f9bf2-273f-47c6-acfd-acdcfa620c1d")
+			(uuid "5d80d07f-0125-45d4-a6c0-2a96e95c0a5d")
 		)
 		(fp_arc
 			(start 0 -7.9)
@@ -2120,7 +2120,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "f615f21e-f288-4f69-8d96-baa0f18fae98")
+			(uuid "6dbfeb72-ace5-4764-bfd1-03980be0947b")
 		)
 		(fp_arc
 			(start 1.435493 -6.835155)
@@ -2131,7 +2131,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "517c72e1-8c9b-4c55-8dc5-b06b0cb112db")
+			(uuid "364a7073-d5e7-4380-a6c8-970228006085")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
@@ -2146,7 +2146,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 -6.4)
+			(at 0 -6.1)
 			(size 2.9 2.9)
 			(drill 2.4)
 			(layers "*.Cu" "*.Mask")
@@ -2160,14 +2160,14 @@
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 13 13)
-			(drill 6.2)
+			(drill 6.4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "911c98d5-dc39-4ce1-882f-490130fee636")
+			(uuid "947248a5-0f06-4edf-905b-6cad2f62f8c4")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/SynthStuff/3D_models/Eledis 1A11-NF1STSE SPDT Toggle Switch.stp"
@@ -2292,7 +2292,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/ac43706f-851f-4bec-b3bd-1222ca33b576")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2538,7 +2538,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/bbdd0b1e-0a79-43cf-a292-0b8665f819d4")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -2744,7 +2744,7 @@
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/4ebf0b7b-f147-459d-a074-5700fb82c6f9")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -10.75 10)
@@ -3057,7 +3057,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/9ca70bf0-cae2-499b-8123-bfc6e6e06819")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -3244,7 +3244,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/05d2c686-568c-4b88-bcae-9e42918a9360")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
 			(pts
@@ -3654,7 +3654,7 @@
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/49859b32-ba6f-4352-be63-9623d51b54d1")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -10.75 10)
@@ -4027,7 +4027,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/51a4f61d-b987-4d94-af26-e5fdaa7181e7")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4315,7 +4315,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/8fe30245-5f1f-4804-92d6-fbf26b1c1494")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4612,7 +4612,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/fe4b312a-814e-4df1-85d5-acb899398541")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4968,7 +4968,7 @@
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/edd5947c-b119-4c9c-87ee-e4f5b9ecf576")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -7.499998 0)
@@ -5182,7 +5182,7 @@
 			)
 		)
 	)
-	(footprint "SynthStuff:Toggle_Switch_Cutout"
+	(footprint "SynthStuff:Toggle_Switch_TE_Cutout"
 		(layer "F.Cu")
 		(uuid "a67714f5-97cc-49b5-b5c8-5aeef5b1c4a6")
 		(at 91.5 52)
@@ -5316,7 +5316,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/65020e8e-01da-44c2-9521-a58458fc95f1")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5327,7 +5327,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "738184c8-ce91-449d-8a6b-369c1f092f2c")
+			(uuid "0e56265b-ff99-4bd4-8b13-5bc44f044399")
 		)
 		(fp_arc
 			(start -6.984267 0)
@@ -5338,7 +5338,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "210e632d-1ea0-4ccb-8118-61a5cf6d4c06")
+			(uuid "18929274-a287-4382-bd17-19614c5690f0")
 		)
 		(fp_arc
 			(start -1.435493 -6.835156)
@@ -5349,7 +5349,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "e1d61bb8-e32b-4bf3-8365-a420234f813b")
+			(uuid "c8e99bee-bd39-4baa-aa4d-808c02691eda")
 		)
 		(fp_arc
 			(start 0 -7.9)
@@ -5360,7 +5360,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "ac62b035-bba0-422d-9af0-92c0bdb62ba3")
+			(uuid "629ccdb4-431c-493e-92db-66f13cb906e5")
 		)
 		(fp_arc
 			(start 1.435493 -6.835155)
@@ -5371,7 +5371,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "c5d01948-51e9-43aa-8451-fb283e4c3af5")
+			(uuid "4deae1e7-383c-4c9f-9a0b-9440ddf290a0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
@@ -5386,7 +5386,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 -6.4)
+			(at 0 -6.1)
 			(size 2.9 2.9)
 			(drill 2.4)
 			(layers "*.Cu" "*.Mask")
@@ -5400,14 +5400,14 @@
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 13 13)
-			(drill 6.2)
+			(drill 6.4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d9dbb168-c2ab-44ad-8d1b-6c726709fea1")
+			(uuid "47806457-3f50-468a-8e0a-6114b8e52300")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/SynthStuff/3D_models/Eledis 1A11-NF1STSE SPDT Toggle Switch.stp"
@@ -5480,7 +5480,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/0fdd41a5-c82a-40c3-8a4e-98f3ced84682")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5587,7 +5587,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/ed2400b3-24fa-4438-9c25-79e03b5de385")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5694,7 +5694,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/fe1cb2e3-4f6f-454a-b749-40096bc46310")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5743,7 +5743,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "SynthStuff:Toggle_Switch_Cutout"
+	(footprint "SynthStuff:Toggle_Switch_TE_Cutout"
 		(layer "F.Cu")
 		(uuid "e6bcd9a0-797c-429d-941b-8bc57aa2d502")
 		(at 58.5 52)
@@ -5872,7 +5872,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/ea81b223-5ffd-4bd6-9e10-434285ce08ec")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -5883,7 +5883,7 @@
 			)
 			(fill no)
 			(layer "Cmts.User")
-			(uuid "0b60b3bc-8214-4dbe-a5ef-f597470b8a5f")
+			(uuid "a98b6515-7a7b-4e80-81dc-202a2865238b")
 		)
 		(fp_arc
 			(start -6.984267 0)
@@ -5894,7 +5894,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "97f93f8d-0c22-49eb-b509-46474a8d4140")
+			(uuid "6db9c528-d236-490d-ba6e-2e6f98e29bfc")
 		)
 		(fp_arc
 			(start -1.435493 -6.835156)
@@ -5905,7 +5905,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "5c394969-2b51-4440-929c-deef8f6a54e0")
+			(uuid "c9e4075f-6e8d-409f-8d46-d7b60fd2631a")
 		)
 		(fp_arc
 			(start 0 -7.9)
@@ -5916,7 +5916,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "aebd4b90-1be3-4158-ab43-e74675618f9d")
+			(uuid "84714e52-9c86-465e-9e6c-fcafe3318d15")
 		)
 		(fp_arc
 			(start 1.435493 -6.835155)
@@ -5927,7 +5927,7 @@
 				(type default)
 			)
 			(layer "F.CrtYd")
-			(uuid "99d5c363-c993-4c5c-bca9-6cc2656cf86b")
+			(uuid "409ab5c3-724a-4bb1-a784-06d55eaaf350")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
@@ -5942,7 +5942,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 -6.4)
+			(at 0 -6.1)
 			(size 2.9 2.9)
 			(drill 2.4)
 			(layers "*.Cu" "*.Mask")
@@ -5956,14 +5956,14 @@
 		(pad "1" thru_hole circle
 			(at 0 0)
 			(size 13 13)
-			(drill 6.2)
+			(drill 6.4)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(net 1 "GND")
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "0692839e-8d71-4d14-9162-31a1202d6727")
+			(uuid "81469a03-c942-4891-94a7-c4eb78580a61")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/SynthStuff/3D_models/Eledis 1A11-NF1STSE SPDT Toggle Switch.stp"
@@ -6162,7 +6162,7 @@
 		(property ki_fp_filters "Pot_Cutout_*")
 		(path "/e0f29a4d-7751-4223-ba2c-b9bbeeac4fee")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -7.499998 0)
@@ -6473,7 +6473,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/c1131ab1-aded-452e-b606-b13fc5884ef3")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -6811,7 +6811,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/cbe90273-d3b0-4b6d-b8da-406497b2d9f6")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_poly
 			(pts
@@ -7176,7 +7176,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/18d8993c-1268-4ead-8a1a-a05cb90495d9")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -7439,7 +7439,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/ed5f3b92-462f-4574-b5e9-7850038d93bd")
 		(sheetname "/")
-		(sheetfile "DMH_Tripple_VCA_PANEL.kicad_sch")
+		(sheetfile "DMH-VCM-Mk2-PANEL.kicad_sch")
 		(zone_connect 1)
 		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
