@@ -2013,7 +2013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV A Amt"
+		(property "Value" "CV B Amt"
 			(at 27.94 101.5999 0)
 			(effects
 				(font
@@ -2550,7 +2550,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CV A Amt"
+		(property "Value" "CV C Amt"
 			(at 27.94 152.3999 0)
 			(effects
 				(font

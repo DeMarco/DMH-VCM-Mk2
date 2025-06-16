@@ -52,6 +52,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 78.74) (xy 63.5 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "34a92548-e806-490e-a018-a456e65545f4")
+	)
+	(wire
+		(pts
 			(xy 127 95.25) (xy 127 76.2)
 		)
 		(stroke
@@ -122,7 +132,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 38.1) (xy 63.5 38.1)
+			(xy 50.8 35.56) (xy 63.5 35.56)
 		)
 		(stroke
 			(width 0)
@@ -132,7 +142,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 76.2) (xy 63.5 76.2)
+			(xy 50.8 73.66) (xy 63.5 73.66)
 		)
 		(stroke
 			(width 0)
@@ -172,6 +182,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 40.64) (xy 63.5 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8586d4db-d572-4b82-9f03-bc7fd9bddd0e")
+	)
+	(wire
+		(pts
 			(xy 50.8 57.15) (xy 127 57.15)
 		)
 		(stroke
@@ -179,6 +199,16 @@
 			(type default)
 		)
 		(uuid "8daddbb1-8c45-45ba-8e75-1a0fb048df70")
+	)
+	(wire
+		(pts
+			(xy 50.8 116.84) (xy 63.5 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "900e4107-c603-4b99-96e3-bb3fc57b252b")
 	)
 	(wire
 		(pts
@@ -242,7 +272,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 114.3) (xy 63.5 114.3)
+			(xy 50.8 111.76) (xy 63.5 111.76)
 		)
 		(stroke
 			(width 0)
@@ -296,7 +326,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Tripple_VCA_PCB_1"
+			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "4")
 				)
@@ -359,7 +389,7 @@
 			)
 		)
 		(pin "Input A" input
-			(at 63.5 38.1 180)
+			(at 63.5 35.56 180)
 			(uuid "b0c11921-e0dd-409b-ab72-416687eaaedf")
 			(effects
 				(font
@@ -378,8 +408,18 @@
 				(justify right)
 			)
 		)
+		(pin "CV Amt A Pot" input
+			(at 63.5 40.64 180)
+			(uuid "388e9ddd-aee6-4015-aab0-2aa2cca6ed88")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
-			(project "DMH_Tripple_VCA_PCB_1"
+			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "3")
 				)
@@ -442,7 +482,7 @@
 			)
 		)
 		(pin "Input B" input
-			(at 63.5 76.2 180)
+			(at 63.5 73.66 180)
 			(uuid "354cc98a-a3c1-47ea-98a0-fe004a9902c6")
 			(effects
 				(font
@@ -461,8 +501,18 @@
 				(justify right)
 			)
 		)
+		(pin "CV Amt B Pot" input
+			(at 63.5 78.74 180)
+			(uuid "7b5ea31e-8072-4c65-9860-9ac610df1829")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
-			(project "DMH_Tripple_VCA_PCB_1"
+			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "5")
 				)
@@ -535,7 +585,7 @@
 			)
 		)
 		(pin "Input B Jack" output
-			(at 50.8 76.2 0)
+			(at 50.8 73.66 0)
 			(uuid "3cf31980-7843-4e17-be32-ca57519cde2c")
 			(effects
 				(font
@@ -565,7 +615,7 @@
 			)
 		)
 		(pin "Input C Jack" output
-			(at 50.8 114.3 0)
+			(at 50.8 111.76 0)
 			(uuid "dd78b2b7-9944-4604-a1e4-dbdb0028fd86")
 			(effects
 				(font
@@ -585,7 +635,7 @@
 			)
 		)
 		(pin "Input A Jack" output
-			(at 50.8 38.1 0)
+			(at 50.8 35.56 0)
 			(uuid "5c0f720a-4dfd-4897-9d6b-44332e28be99")
 			(effects
 				(font
@@ -664,8 +714,38 @@
 				(justify left)
 			)
 		)
+		(pin "CV Amt A Pot" output
+			(at 50.8 40.64 0)
+			(uuid "13dab434-c4f7-4866-9d1c-fdfbdcd5f147")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV Amt B Pot" output
+			(at 50.8 78.74 0)
+			(uuid "700e12f1-ecee-48fa-aa2e-4c74e7f32eed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "CV Amt C Pot" output
+			(at 50.8 116.84 0)
+			(uuid "9d57236d-ef97-4e80-9718-8e3ccad9c56d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
-			(project "DMH_Tripple_VCA_PCB_1"
+			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "2")
 				)
@@ -748,7 +828,7 @@
 			)
 		)
 		(instances
-			(project "DMH_Tripple_VCA_PCB_1"
+			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "7")
 				)
@@ -811,7 +891,7 @@
 			)
 		)
 		(pin "Input C" input
-			(at 63.5 114.3 180)
+			(at 63.5 111.76 180)
 			(uuid "9ebc14e7-7cf0-4bd5-9a49-177a4248fec2")
 			(effects
 				(font
@@ -830,8 +910,18 @@
 				(justify right)
 			)
 		)
+		(pin "CV Amt C Pot" input
+			(at 63.5 116.84 180)
+			(uuid "ad5ce73d-985c-481e-a3af-b1d865cc976c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
-			(project "DMH_Tripple_VCA_PCB_1"
+			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "6")
 				)
