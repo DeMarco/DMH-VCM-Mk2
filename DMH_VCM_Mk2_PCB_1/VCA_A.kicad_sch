@@ -2583,13 +2583,13 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 88.9 139.7 0)
 		(mirror x)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "382d84a7-e841-4b96-92cf-5cb3dd1bf070")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 88.9 149.86 0)
 			(effects
 				(font
@@ -2685,8 +2685,8 @@
 		(instances
 			(project "DMH_VCM_Mk2_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
-					(reference "U3")
-					(unit 1)
+					(reference "U1")
+					(unit 2)
 				)
 			)
 		)
@@ -2837,7 +2837,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 234.95 76.2 0)
 		(mirror x)
-		(unit 2)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2940,7 +2940,7 @@
 			(project "DMH_Tripple_VCA_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/7ad2d702-dfb7-4d49-a82d-34430dd5948f"
 					(reference "U1")
-					(unit 2)
+					(unit 4)
 				)
 			)
 		)
@@ -2971,7 +2971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 108.204 138.684 90)
 			(effects
 				(font
@@ -3893,7 +3893,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical"
 			(at 70.104 136.144 90)
 			(effects
 				(font

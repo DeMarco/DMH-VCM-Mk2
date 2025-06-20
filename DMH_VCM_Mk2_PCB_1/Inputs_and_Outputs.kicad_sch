@@ -1493,7 +1493,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SynthStuff:PinHeader_2x03_P2.54mm_Vertical_142536"
+			(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_TE"
 				(at 0 5.08 0)
 				(effects
 					(font
@@ -5375,7 +5375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_THT"
+		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_TE"
 			(at 171.45 33.02 0)
 			(effects
 				(font
@@ -5465,7 +5465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_THT"
+		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_TE"
 			(at 171.45 185.42 0)
 			(effects
 				(font
@@ -6325,7 +6325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_THT"
+		(property "Footprint" "SynthStuff:Toggle_Switch_2_Poles_TE"
 			(at 171.45 109.22 0)
 			(effects
 				(font
@@ -7247,7 +7247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 127 115.57 0)
 			(effects
 				(font
@@ -7272,6 +7272,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 127 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "6"
@@ -7545,7 +7553,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 127 191.77 0)
 			(effects
 				(font
@@ -7570,6 +7578,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 127 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "6"
@@ -7632,7 +7648,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
 			(at 127 39.37 0)
 			(effects
 				(font
@@ -7657,6 +7673,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 127 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "6"

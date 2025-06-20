@@ -3208,14 +3208,14 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 50.8 50.8 0)
-		(unit 4)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3890081c-7efa-4bb3-8c84-1b948dbc598d")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 50.8 40.64 0)
 			(effects
 				(font
@@ -3231,7 +3231,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 49.53 48.26 0)
 			(effects
 				(font
@@ -3256,6 +3256,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "3"
@@ -3303,8 +3311,8 @@
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U3")
-					(unit 4)
+					(reference "U2")
+					(unit 3)
 				)
 			)
 		)
@@ -3631,7 +3639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 39.37 118.11 0)
 			(effects
 				(font
@@ -3656,6 +3664,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 40.64 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "14"
