@@ -3535,8 +3535,8 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "VCA A Calib"
-			(at 235.712 127 0)
+		(property "Function" "Calib A"
+			(at 233.172 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
