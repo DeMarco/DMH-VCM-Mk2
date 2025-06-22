@@ -10,514 +10,81 @@
 		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
 	)
 	(lib_symbols)
-	(wire
-		(pts
-			(xy 127 171.45) (xy 29.21 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "032968ff-5028-4ee1-803f-dc1bfc565358")
+	(no_connect
+		(at 50.8 152.4)
+		(uuid "03722d87-2d0e-48ab-909d-21dde4ee646e")
 	)
-	(wire
-		(pts
-			(xy 114.3 152.4) (xy 127 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "079258d1-f4fa-4c0b-814e-83e7f8e8b9e9")
+	(no_connect
+		(at 50.8 31.75)
+		(uuid "0706bb69-beb1-4758-930d-7bf30be99be0")
 	)
-	(wire
-		(pts
-			(xy 127 133.35) (xy 127 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1f16d6d3-52c1-48b3-9673-674192d9800c")
+	(no_connect
+		(at 50.8 73.66)
+		(uuid "3ab8dfab-2c29-41c2-9378-741deda2632a")
 	)
-	(wire
-		(pts
-			(xy 50.8 133.35) (xy 127 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fa82d07-b5a4-46dd-9b6c-90a9cafa99fb")
+	(no_connect
+		(at 50.8 57.15)
+		(uuid "435f5cda-ff9c-4098-982e-ef5428ff214a")
 	)
-	(wire
-		(pts
-			(xy 50.8 78.74) (xy 63.5 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34a92548-e806-490e-a018-a456e65545f4")
+	(no_connect
+		(at 50.8 78.74)
+		(uuid "468c6b7a-b0dd-4f55-a3ff-b36710d30727")
 	)
-	(wire
-		(pts
-			(xy 127 95.25) (xy 127 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "395a46e3-41da-44fb-bbd6-b900b75e05b1")
+	(no_connect
+		(at 50.8 82.55)
+		(uuid "59973f46-dee8-4ebb-a2a5-8e95cac19f00")
 	)
-	(wire
-		(pts
-			(xy 114.3 114.3) (xy 127 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c58945a-2ccf-4e19-b91c-0a280f316fbb")
+	(no_connect
+		(at 50.8 69.85)
+		(uuid "5ac5a71f-38bd-4270-bc5a-4c4ff3dbdba7")
 	)
-	(wire
-		(pts
-			(xy 127 152.4) (xy 127 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40509646-8ee5-471d-90a9-cb8dece7d627")
+	(no_connect
+		(at 29.21 165.1)
+		(uuid "7f11dc44-2c25-4e87-9fa6-f1b8766e5c7f")
 	)
-	(wire
-		(pts
-			(xy 50.8 82.55) (xy 63.5 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41b63aab-69f8-48e0-8c86-334d016c00eb")
+	(no_connect
+		(at 50.8 146.05)
+		(uuid "8941b3a5-48ee-43d5-b8e2-d3bd60b41865")
 	)
-	(wire
-		(pts
-			(xy 50.8 107.95) (xy 63.5 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "440ef6e5-abe5-4941-88f9-5e79bfc4b43d")
+	(no_connect
+		(at 50.8 158.75)
+		(uuid "909651a9-ded3-4f25-9052-95794dd0e4f6")
 	)
-	(wire
-		(pts
-			(xy 50.8 44.45) (xy 63.5 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b2cd43a-4007-4822-a1d5-e564d4396fd9")
+	(no_connect
+		(at 50.8 35.56)
+		(uuid "a989f06d-f024-4663-ad10-a1a3e489d926")
 	)
-	(wire
-		(pts
-			(xy 50.8 31.75) (xy 63.5 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fbcc1c4-7a9c-4a07-97c4-68cbe7cb813c")
+	(no_connect
+		(at 50.8 95.25)
+		(uuid "b44d34f0-6d59-49a0-be53-b55ee111469d")
 	)
-	(wire
-		(pts
-			(xy 50.8 35.56) (xy 63.5 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5fc8452b-e118-4f78-af9e-a20f28ba6de0")
+	(no_connect
+		(at 50.8 107.95)
+		(uuid "d0f9b776-65c0-4785-938c-75799176d57c")
 	)
-	(wire
-		(pts
-			(xy 50.8 73.66) (xy 63.5 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "61895872-7332-43ea-87bc-7872a4124c7e")
+	(no_connect
+		(at 50.8 40.64)
+		(uuid "d15c807a-cee9-4acb-a4bd-0b4cbb8bc86a")
 	)
-	(wire
-		(pts
-			(xy 127 57.15) (xy 127 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65d96d4a-5ebd-403a-9336-f262cb9279ae")
+	(no_connect
+		(at 50.8 44.45)
+		(uuid "e18588a5-c0a4-4cb0-b9ae-463c6e7352d5")
 	)
-	(wire
-		(pts
-			(xy 114.3 76.2) (xy 127 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a461bab-55ba-431e-a8aa-477a2e7e1d07")
+	(no_connect
+		(at 50.8 120.65)
+		(uuid "e46cd3d2-8c6e-44bd-8cd2-f967db7a44ee")
 	)
-	(wire
-		(pts
-			(xy 50.8 152.4) (xy 63.5 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a46af50-2ebc-4832-b024-c34cf5f5de62")
+	(no_connect
+		(at 50.8 116.84)
+		(uuid "e6c03974-2579-453d-97be-e4e148176528")
 	)
-	(wire
-		(pts
-			(xy 50.8 40.64) (xy 63.5 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8586d4db-d572-4b82-9f03-bc7fd9bddd0e")
+	(no_connect
+		(at 50.8 133.35)
+		(uuid "f07ec22d-f320-4fb3-97e5-06424b2912f0")
 	)
-	(wire
-		(pts
-			(xy 50.8 57.15) (xy 127 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8daddbb1-8c45-45ba-8e75-1a0fb048df70")
-	)
-	(wire
-		(pts
-			(xy 50.8 116.84) (xy 63.5 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "900e4107-c603-4b99-96e3-bb3fc57b252b")
-	)
-	(wire
-		(pts
-			(xy 50.8 158.75) (xy 63.5 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95ebffbe-a5e0-4efb-99f4-a5fb060c7e85")
-	)
-	(wire
-		(pts
-			(xy 114.3 38.1) (xy 127 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a6e661e-9f9e-4389-b6f8-d03edc65253d")
-	)
-	(wire
-		(pts
-			(xy 50.8 69.85) (xy 63.5 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fff9727-d6c9-40bd-9cf1-01b551d2f579")
-	)
-	(wire
-		(pts
-			(xy 50.8 120.65) (xy 63.5 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5b4b17c-0fb4-4950-8873-7b3788635565")
-	)
-	(wire
-		(pts
-			(xy 50.8 95.25) (xy 127 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca29f8c3-9ec7-42b9-b94c-3a193f3ae7cc")
-	)
-	(wire
-		(pts
-			(xy 29.21 171.45) (xy 29.21 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cb044d17-8b7c-4c7b-92b9-2428800f50cc")
-	)
-	(wire
-		(pts
-			(xy 50.8 111.76) (xy 63.5 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc08315a-d5dd-4526-bca1-e60a605984b3")
-	)
-	(wire
-		(pts
-			(xy 50.8 146.05) (xy 63.5 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ceddcf5e-e76a-41df-8f58-fa8e87868ddf")
-	)
-	(sheet
-		(at 139.7 83.82)
-		(size 25.4 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
-		(property "Sheetname" "Power"
-			(at 139.7 83.1084 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Power.kicad_sch"
-			(at 139.7 109.8046 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 63.5 25.4)
-		(size 50.8 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
-		(property "Sheetname" "VCA A"
-			(at 63.5 24.6884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "VCA_A.kicad_sch"
-			(at 63.5 51.3846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "CV A Input" input
-			(at 63.5 44.45 180)
-			(uuid "87fde43c-48b7-4e16-8272-974aa5168592")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Offset A Pot" input
-			(at 63.5 31.75 180)
-			(uuid "09d04d01-f8bf-4499-80e6-660dda12d907")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Input A" input
-			(at 63.5 35.56 180)
-			(uuid "b0c11921-e0dd-409b-ab72-416687eaaedf")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Output A" output
-			(at 114.3 38.1 0)
-			(uuid "965e62cb-36a2-486e-8893-93a8a9404909")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CV Amt A Pot" input
-			(at 63.5 40.64 180)
-			(uuid "388e9ddd-aee6-4015-aab0-2aa2cca6ed88")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 63.5 63.5)
-		(size 50.8 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "b1c4e848-8fe8-4310-abec-b04b02b54b3f")
-		(property "Sheetname" "VCA B"
-			(at 63.5 62.7884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "VCA_B.kicad_sch"
-			(at 63.5 89.4846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "CV B Input" input
-			(at 63.5 82.55 180)
-			(uuid "1fe200bf-af92-40e4-88cb-c81b1ff64153")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Offset B Pot" input
-			(at 63.5 69.85 180)
-			(uuid "6a43f4e5-a6c8-40b9-999f-4c3ca2683a42")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Input B" input
-			(at 63.5 73.66 180)
-			(uuid "354cc98a-a3c1-47ea-98a0-fe004a9902c6")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Output B" output
-			(at 114.3 76.2 0)
-			(uuid "4e55c8c2-9bee-4ed1-b647-3255754d426b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CV Amt B Pot" input
-			(at 63.5 78.74 180)
-			(uuid "7b5ea31e-8072-4c65-9860-9ac610df1829")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "5")
-				)
-			)
-		)
+	(no_connect
+		(at 50.8 111.76)
+		(uuid "fa6d529a-b734-49e6-821b-599c4ccef41b")
 	)
 	(sheet
 		(at 25.4 25.4)
@@ -745,185 +312,9 @@
 			)
 		)
 		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
+			(project "DMH_VCM_Mk2_PCB_2"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 63.5 139.7)
-		(size 50.8 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "cf2dec9f-6388-4d4b-9b45-78eb859d2e80")
-		(property "Sheetname" "Mixer"
-			(at 63.5 138.9884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Mixer.kicad_sch"
-			(at 63.5 165.6846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "Mixer Input A" input
-			(at 63.5 146.05 180)
-			(uuid "1a09e30f-0fb3-4b19-ae5b-8c710aad97bb")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Mixer Input B" input
-			(at 63.5 152.4 180)
-			(uuid "a438da56-2e27-4b15-a7bf-e6c85834bc24")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Mixer Input C" input
-			(at 63.5 158.75 180)
-			(uuid "86530e4c-8f5d-4e78-a54f-a7a83333cdc0")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Mixer Output" output
-			(at 114.3 152.4 0)
-			(uuid "1e92f1d0-6e12-4f8b-bf7a-632aa8e8bf4f")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 63.5 101.6)
-		(size 50.8 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e5196600-83a1-4dc3-ad8c-62681c1f8ce4")
-		(property "Sheetname" "VCA C"
-			(at 63.5 100.8884 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "VCA_C.kicad_sch"
-			(at 63.5 127.5846 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "CV C Input" input
-			(at 63.5 120.65 180)
-			(uuid "d52771ee-79cb-4869-b11f-fa73680621b9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Offset C Pot" input
-			(at 63.5 107.95 180)
-			(uuid "62448cd8-d2d5-4779-a917-bc774cf2f139")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Input C" input
-			(at 63.5 111.76 180)
-			(uuid "9ebc14e7-7cf0-4bd5-9a49-177a4248fec2")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "Output C" output
-			(at 114.3 114.3 0)
-			(uuid "fbaf4ebb-2ec1-464d-898f-32c68defd3f8")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "CV Amt C Pot" input
-			(at 63.5 116.84 180)
-			(uuid "ad5ce73d-985c-481e-a3af-b1d865cc976c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(instances
-			(project "DMH_VCM_Mk2_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "6")
 				)
 			)
 		)
