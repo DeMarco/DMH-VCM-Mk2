@@ -1,0 +1,24 @@
+Drill report for DMH_VCM_Mk2_PCB_1.kicad_pcb
+Created on 2025-10-04T20:37:24+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'DMH_VCM_Mk2_PCB_1-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.800mm  0.0315"  (204 holes)
+    T2  1.000mm  0.0394"  (74 holes)  (with 30 slots)
+    T3  1.100mm  0.0433"  (4 holes)
+
+    Total plated holes count 282
+
+
+Drill file 'DMH_VCM_Mk2_PCB_1-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

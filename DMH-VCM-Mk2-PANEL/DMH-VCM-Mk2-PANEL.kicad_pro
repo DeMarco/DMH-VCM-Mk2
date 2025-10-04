@@ -66,15 +66,15 @@
           ""
         ],
         [
-          "silk_overlap|77117764|126517405|74992a86-c3a4-40cc-ba67-f7ac79f281ca|ff9c367a-d900-4ffd-83b8-49942c0051c5",
+          "silk_overlap|77117764|114482594|74992a86-c3a4-40cc-ba67-f7ac79f281ca|ff9c367a-d900-4ffd-83b8-49942c0051c5",
           ""
         ],
         [
-          "silk_overlap|77117764|155267405|0c2dd698-9bf5-4da2-be9f-924f2db9766d|c0b69ac9-ade4-40f6-b3ef-460f559142e3",
+          "silk_overlap|77117764|143232594|0c2dd698-9bf5-4da2-be9f-924f2db9766d|c0b69ac9-ade4-40f6-b3ef-460f559142e3",
           ""
         ],
         [
-          "silk_overlap|77117764|97767405|0e609411-f32e-4329-b933-4f968e0c39bc|e2bce05f-999f-4df3-9640-036dfc6559d4",
+          "silk_overlap|77117764|85732594|0e609411-f32e-4329-b933-4f968e0c39bc|e2bce05f-999f-4df3-9640-036dfc6559d4",
           ""
         ],
         [
@@ -139,6 +139,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -478,6 +479,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"

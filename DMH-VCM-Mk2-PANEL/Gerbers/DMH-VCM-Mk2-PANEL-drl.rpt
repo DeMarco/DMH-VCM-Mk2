@@ -1,0 +1,27 @@
+Drill report for DMH-VCM-Mk2-PANEL.kicad_pcb
+Created on 2025-10-04T20:32:17+0200
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'DMH-VCM-Mk2-PANEL-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (80 holes)
+    T2  1.000mm  0.0394"  (3 holes)  (with 3 slots)
+    T3  2.400mm  0.0945"  (3 holes)
+    T4  3.200mm  0.1260"  (4 holes)
+    T5  6.400mm  0.2520"  (3 holes)
+
+    Total plated holes count 93
+
+
+Drill file 'DMH-VCM-Mk2-PANEL-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.100mm  0.1220"  (3 holes)
+
+    Total unplated holes count 3
